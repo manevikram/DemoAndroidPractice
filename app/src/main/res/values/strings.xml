@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoAndroidPractice</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="txt_fragment_a">This is Fragment A</string>
+    <string name="txt_fragment_b">This is Fragment B</string>
+</resources>
